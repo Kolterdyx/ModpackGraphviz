@@ -12,3 +12,7 @@ neato -Tpng graph.dot -o graph.png
 fdp -Tpng graph.dot -o graph.png
 sfdp -Tpng graph.dot -o graph.png
 ```
+
+Example image (generated with `fdp`):
+
+![Example Graph](assets/graph.png)
